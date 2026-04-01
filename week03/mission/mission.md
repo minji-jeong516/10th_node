@@ -11,7 +11,7 @@
         - Request Header
             
             → Authorization: Bearer {accessToken}
-            
+           
         
         → 홈 화면 상단의 진행률과 현재 포인트를 조회하는 API로, 선택한 지역 기준으로 전체 미션 수, 완료한 미션 수, 보유 포인트를 조회한다.
         
