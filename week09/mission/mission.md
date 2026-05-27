@@ -78,6 +78,6 @@ https://github.com/minji-jeong516/umc_node/pull/18
         - 미션 완료 처리 API
         - 내 정보 수정 API
             
-            ![image.png](attachment:a6777537-f2bb-4654-aa14-29c11180232c:image.png)
-            
-            ![image.png](attachment:9a0d77ae-38a3-49c8-bca7-1064df467119:image.png)
+            <img width="1045" height="1242" alt="스크린샷 2026-05-27 124715" src="https://github.com/user-attachments/assets/316d0da6-5a7c-49e3-b337-3459c9f58e1d" />
+<img width="1044" height="1284" alt="스크린샷 2026-05-27 124457" src="https://github.com/user-attachments/assets/92156d75-feac-4bf3-b0f4-03feefae49c6" />
+
